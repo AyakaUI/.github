@@ -12,7 +12,7 @@ IS_OFFICIAL := false
 WITH_KSU := false
 ```
 ### NOTE WITH_KSU flag
-> The flash WITH_KSU only work if you added in your kernel too. e.g arm64/configs/ksu.config.
+> Flag WITH_KSU only work if you added in your kernel too. e.g arm64/configs/ksu.config.
 
 ### NOTE IS_OFFICIAL flag
 > Dont set this if you not pretend make it officially.
